@@ -1,0 +1,26 @@
+.submit-div {
+    /* border: 1px solid rgb(172, 170, 170); */
+
+    box-shadow: 0px 0px 10px 0px #bab6b6;
+    border-radius: 6px;
+    height: 100%;
+    min-height: 25vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.submit-div svg {
+    fill: rgb(0, 119, 255);
+    width: 90px;
+    height: 30px;
+}
+
+.white-div { 
+    height: 100%;
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

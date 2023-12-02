@@ -1,0 +1,77 @@
+.textend{
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    float: left;
+}
+.dash-height{
+    height: 100%;
+    min-height: 90vh;
+}
+.bgwhite{
+    background-color: white;
+}
+th{
+    padding-right: 52.5px;
+    padding-left: 40px;
+}
+tr{
+    border: 1px solid rgb(210, 210, 210);
+    /* border-radius: 40px; */
+}
+/* th{
+    
+} */
+/* table{
+    border-radius: 40px;
+} */
+.chart-div{
+width: 85%;
+/* height: 400px; */
+
+}
+/* .chart-div .dough-height{
+     height: 300px; 
+} */
+.button-div{
+    background-color: rgb(197, 196, 196);
+    padding: 10px 20px;
+    border-radius: 20px;
+    float: right;
+    margin-right: 20px;
+    /* margin-bottom: 30px; */
+}
+.button-div button{
+    border: none;
+    background-color:  rgb(197, 196, 196);
+    border: 100%;
+
+}
+.button-div button svg{
+    height: 25px;
+    width: 25px;
+}
+td,th{
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+tfoot{
+    background-color: rgb(246, 244, 244);
+}
+th svg{
+    fill: rgb(225, 220, 220);
+    width: 30px;
+    height: 40px;
+    margin-left: 20px;
+}
+.first-row{
+    border-top-right-radius: 7px;
+    border-top-left-radius: 7px;
+}
+.right-div{
+    border: 1px solid rgb(209, 208, 208);
+    border-radius: 20px;
+    height: 100%;
+    min-height: 40vh;
+    background-color: white;
+}

@@ -1,0 +1,22 @@
+.pading{
+    /* padding: 50px; */
+    border: 1px solid rgb(223, 221, 221);
+    border-radius: 6px;
+    /* margin: 20px; */
+}
+.form-btn{
+    padding:10px 40px;
+    font-weight: 650;
+}
+.form-label{
+font-size: 19px;
+font-weight: 450;
+}
+.form-control::placeholder{
+    font-size: 18px;
+    color: rgb(198, 196, 196);
+}
+.back-btn {
+    /* background-color: rgb(191, 185, 185); */
+    border: 1px solid rgb(203, 202, 202);
+}
